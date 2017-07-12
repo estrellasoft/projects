@@ -1,0 +1,6 @@
+C:\Development\IntranetTools\IntranetTools\MediaOrganizer\MediaOrganizer\bin\Debug\MediaOrganizer.exe.config
+C:\Development\IntranetTools\IntranetTools\MediaOrganizer\MediaOrganizer\obj\Debug\MediaOrganizer.csprojResolveAssemblyReference.cache
+C:\Development\IntranetTools\IntranetTools\MediaOrganizer\MediaOrganizer\bin\Debug\MediaOrganizer.exe
+C:\Development\IntranetTools\IntranetTools\MediaOrganizer\MediaOrganizer\bin\Debug\MediaOrganizer.pdb
+C:\Development\IntranetTools\IntranetTools\MediaOrganizer\MediaOrganizer\obj\Debug\MediaOrganizer.exe
+C:\Development\IntranetTools\IntranetTools\MediaOrganizer\MediaOrganizer\obj\Debug\MediaOrganizer.pdb
